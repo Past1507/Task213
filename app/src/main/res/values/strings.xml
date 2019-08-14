@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Сроки задачи</string>
+    <string name="btnStartDate">Дата-время старта задачи:</string>
+    <string name="btnEndDate">Дата-время окончания задачи:</string>
+    <string name="btnOk">OK</string>
+    StartDate
+</resources>
